@@ -17,7 +17,7 @@
     },
     "adminPassword": {
       "type": "securestring",
-      "defaultValue": "!ServiceNow2018",
+      "defaultValue": "",
       "metadata": {
         "description": "The password for the administrator account of the new VM"
       }
